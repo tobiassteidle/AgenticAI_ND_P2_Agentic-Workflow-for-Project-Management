@@ -149,7 +149,7 @@ class RAGKnowledgePromptAgent:
 
         chunks, start, chunk_id = [], 0, 0
 
-        while start < len(text):
+        while start < len(text) - self.chunk_size:
             end = min(start + self.chunk_size, len(text))
             if separator in text[start:end]:
                 end = start + text[start:end].rindex(separator) + len(separator)

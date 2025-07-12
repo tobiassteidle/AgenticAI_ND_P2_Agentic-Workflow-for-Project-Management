@@ -1,6 +1,3 @@
-# AgenticAI_ND_P2_Agentic-Workflow-for-Project-Management
-AI-Powered Agentic Workflow for Project Management (Pilot: Email Router)
-
 ## Introduction
 
 Welcome to the project AI-Powered Agentic Workflow for Project Management! Imagine yourself as a highly sought-after AI Workflow Architect who specializes in implementing intelligent agentic systems that don't just automate tasks, but dynamically *manage* them. Your newest client, **InnovateNext Solutions**, a rapidly scaling startup brimming with brilliant ideas but hampered by inconsistent project execution, has a critical challenge they believe only *you* can solve.
@@ -47,12 +44,12 @@ You will deliver a two-part solution:
 
 At the end of the project, you will need to submit the following documents for review:
 1. Phase 1:
-- Fully implemented reusable agent library (`workflow_agents/base_agents.py`).
-- Test scripts for each agent in the reusable agent library
-- Outputs from running the seven testing scripts in the form of screenshots or text files containing terminal outputs.
+  - Fully implemented reusable agent library (`workflow_agents/base_agents.py`).
+  - Test scripts for each agent in the reusable agent library
+  - Outputs from running the seven testing scripts in the form of screenshots or text files containing terminal outputs.
 2. Phase 2:
-- Completed Python script (`agentic_workflow.py`) which implements the agentic workflow for technical project management for the email router product specification.
-- Output from the agentic workflow in the form of screenshots or a text file containing the terminal output.
+  - Completed Python script (`agentic_workflow.py`) which implements the agentic workflow for technical project management for the email router product specification.
+  - Output from the agentic workflow in the form of screenshots or a text file containing the terminal output.
 
 You'll be drawing upon your LLM prompting skils, your knowledge of agentic workflows, and your Python programming skills to bring this solution to life. Ready to show InnovateNext Solutions how AI can revolutionize their entire approach to project management, starting with the Email Router? Let's architect the future of project management!
 
